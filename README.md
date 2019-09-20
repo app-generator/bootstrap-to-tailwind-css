@@ -5,10 +5,8 @@ Read more about <a href="https://appseed.us/developer-tools/bootstrap-to-tailwin
 
 <br />
 
----
 ## Implementation
-
-WIP
+@WIP
 
 <br />
 
